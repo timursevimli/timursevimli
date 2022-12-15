@@ -6,7 +6,7 @@
 
 | Syntax               | Statements            | Functions             | Data structures     | Process & style      |
 |----------------------|-----------------------|-----------------------|---------------------|----------------------|
-| 🟩 value             | 🟩 if                 | 🟩 recursion          | 🟩 array            | 🟦 refactoring       |
+| 🟩 value             | 🟩 if                 | 🟩 recursion          | 🟩 array            | 🟩 refactoring       |
 | 🟩 identifier        | 🟩 loops              | 🟩 function           | 🟩 instance         | 🟦 code review       |
 | 🟩 variable          | 🟦 assignment         | 🟩 return             | 🟩 object           | 🟦 antipatterns      |
 | 🟩 constant          | 🟩 prototype          | 🟦 signature          | 🟦 collection       | 🟦 paradigm          |
@@ -24,8 +24,8 @@
 | 🟩 this              | 🟦 bitwise operators  | 🟩 listener           | ⬜️ weak collections | 🟦 exception         |
 | 🟩 arrow function    | 🟩 break, continue    | 🟩 pipe               | ⬜️ Proxy            | 🟦 return early      |
 | 🟨 generator         | 🟩 switch             | 🟩 compose            | ⬜️ Symbol           | 🟩 linter            |
-| 🟩 async function    | 🟩 new Error          | ⬜️ memoize            | 🟨 string parsing   | 🟩 prettier          |
-| 🟩 call, bind, apply |                       | 🟦 factory            | 🟨 timers           | 🟦 unittest          |
+| 🟩 async function    | 🟩 new Error          | ⬜️ memoize            | 🟩 string parsing   | 🟩 prettier          |
+| 🟩 call, bind, apply |                       | 🟦 factory            | 🟩 timers           | 🟦 unittest          |
 | 🟩 Array             |                       | 🟦 pool               | 🟨 EventEmitter     | 🟩 git               |
 | 🟩 instanceof        |                       | 🟦 wrapper            | 🟩 RegExp           | 🟩 github            |
 | 🟩 ...spread         |                       | 🟩 default parameters | 🟩 global           | 🟨 node.js           |
