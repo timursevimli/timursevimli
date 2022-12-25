@@ -5,6 +5,6 @@
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 <code>🧑‍💻 Languages: JavaScript, TypeScript</code>
 <code>📦 Tech stack: node.js</code>
-<code>📫 [Email](mailto:svmlitimur@gmail.com)</code>
+<code>📫 [Email](mailto:svmlitimur@gmail.com)</code><br>
 ![image](https://www.codewars.com/users/bayalesko/badges/large)
 
