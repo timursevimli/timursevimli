@@ -6,3 +6,4 @@
 <code>🧑‍💻 Languages: JavaScript, TypeScript</code>
 <code>📦 Tech stack: node.js</code>
 <code>📫 [Email](mailto:svmlitimur@gmail.com)</code>
+![image](https://www.codewars.com/users/bayalesko/badges/large)
