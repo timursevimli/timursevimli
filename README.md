@@ -8,6 +8,6 @@
 <code>📫 [Email](mailto:svmlitimur@gmail.com)</code>
 
 <p align="center">
-  ![image](https://www.codewars.com/users/bayalesko/badges/large)
+  <code>![image](https://www.codewars.com/users/bayalesko/badges/large)<code>
 </p>
 
