@@ -28,7 +28,7 @@
 | 🟩 call, bind, apply |                       | 🟦 factory            | 🟩 timers           | 🟩 unittest          |
 | 🟩 Array             |                       | 🟦 pool               | 🟨 EventEmitter     | 🟩 git               |
 | 🟩 instanceof        |                       | 🟩 wrapper            | 🟩 RegExp           | 🟩 github            |
-| 🟩 ...spread         |                       | 🟩 default parameters | 🟩 global           | 🟨 node.js           |
+| 🟩 ...spread         |                       | 🟩 default parameters | 🟩 global           | 🟩 node.js           |
 | 🟩 ...rest           |                       |                       | 🟩 undefined        | 🟩 npm               |
 | 🟩 typeof            |                       |                       | 🟩 null             |                      |
 
