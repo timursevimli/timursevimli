@@ -71,7 +71,7 @@
 | 🟦 Async Iterator      | 🟦 worker_threads              | ⬜ epoll            | 🟦 Promise.race          |
 | 🟦 Thenable            | 🟦 Atomics                     | ⬜ kqueue           | 🟦 Promise.any           |
 | 🟩 EventEmitter        | 🟦 Blockeing operations        | ⬜ Completion ports | ⬜ Web Locks API         |
-| ⬜ Cancelable callback | 🟦 Non-blocking loop for Array | ⬜ Event ports      | ⬜ Async Pool            |
+| 🟩 Cancelable callback | 🟦 Non-blocking loop for Array | ⬜ Event ports      | ⬜ Async Pool            |
 | ⬜ Cancelable Promise  | ⬜ High resolution clock       | 🟩 libuv            | ⬜ Thread Pool           |
 | 🟦 Asynchronous Queue  | 🟩 Callback hell               | 🟦 Race conditions  | 🟦 callbackify           |
 | ⬜ Future              | 🟩 Promise hell                | 🟦 Dead locks       | 🟦 promisify             |
