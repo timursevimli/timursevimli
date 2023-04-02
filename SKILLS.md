@@ -76,7 +76,7 @@
 | 🟦 Asynchronous Queue  | 🟩 Callback hell               | 🟦 Race conditions  | 🟦 callbackify           |
 | ⬜ Future              | 🟩 Promise hell                | 🟦 Dead locks       | 🟦 promisify             |
 | ⬜ Deferred            |                                | 🟦 Live locks       | ⬜ IPC                   |
-| 🟦 Observer            |                                | ⬜ Actor Model      | ⬜ Channel API           |
+| 🟩 Observer            |                                | ⬜ Actor Model      | ⬜ Channel API           |
 | ⬜ Async Collector     |                                |                     | ⬜ Revealing Constructor |
 | ⬜ Coroutine           |                                |                     |                          |
 | ⬜ Goroutine           |                                |                     |                          |
