@@ -37,8 +37,8 @@
 | Theory                         | OOP basics            | Abstractions         | Patterns                 |
 |--------------------------------|-----------------------|----------------------|--------------------------|
 | 🟩 Procedural programming      | 🟩 constructor        | 🟩 struct, record    | 🟩 Singleton             |
-| 🟩 Imperative programming      | 🟩 new                | 🟩 Mutable state     |                          |
-| 🟦 Structured programming      | 🟩 Static method      | ⬜ Immutable state   |                          |
+| 🟩 Imperative programming      | 🟩 new                | 🟩 Mutable state     | 🟩 Revealing Constructor |
+| 🟦 Structured programming      | 🟩 Static method      | ⬜ Immutable state   | 🟩 Observer              |
 | 🟦 Non-structured programming  | 🟩 Method             | 🟩 Enum              |                          |
 | 🟩 Functional programming      | 🟩 Async method       | 🟩 Linked list       |                          |
 | 🟩 Prototype-based programming | 🟩 Getters, Setters   | 🟩 Doubly list       |                          |
@@ -51,7 +51,7 @@
 | 🟩 Reactive programming        | 🟩 Abstract class     | 🟩 Monad             |                          |
 | ⬜ FRP (Functional-reactive)   | 🟩 Interface          | 🟩 Generator         |                          |
 | 🟦 Automata-based programming  | 🟩 Encapsulation      | 🟩 Iterator          |                          |
-| 🟦 Domain-specific languages   | 🟩 Hidden class       | 🟩 Async Iterator    |                          |
+| 🟩 Domain-specific languages   | 🟩 Hidden class       | 🟩 Async Iterator    |                          |
 | 🟩 Multi-paradigm programming  | ⬜ Object form        |                      |                          |
 | 🟩 Metaprogramming             | 🟩 instance           |                      |                          |
 | ⬜ Actor model                 | ⬜ Introspection      |                      |                          |
@@ -64,7 +64,7 @@
 | 🟩 Callback-last       | 🟩 Timers                      | 🟩 Event Loop       | 🟩 async.js library      |
 | 🟩 Error-first         | 🟩 setImmediate                | 🟩 Async error      | 🟩 Async composition     |
 | 🟩 Promise             | 🟩 nextTick                    | 🟩 try..catch       | ⬜ Rx.js                 |
-| 🟩 Async function      | ⬜ AbortController             | 🟩 Non-blocking     | 🟩 Sequential async      |
+| 🟩 Async function      | 🟩 AbortController             | 🟩 Non-blocking     | 🟩 Sequential async      |
 | 🟩 await               | 🟩 Promise unhandled rejection | 🟩 Async I/O        | 🟩 Parallel async        |
 | 🟩 Generator           | 🟩 Promise double resolve      | 🟦 Pattern Reactor  | 🟩 Promise.all           |
 | 🟩 Async Generator     | 🟦 child_process               | ⬜ CAS operations   | 🟩 Promise.allSettled    |
@@ -74,7 +74,7 @@
 | 🟩 Cancelable callback | 🟩 Non-blocking loop for Array | ⬜ Event ports      | ⬜ Async Pool            |
 | 🟩 Cancelable Promise  | ⬜ High resolution clock       | 🟩 libuv            | 🟩 Thread Pool           |
 | 🟩 Asynchronous Queue  | 🟩 Callback hell               | 🟩 Race conditions  | 🟩 callbackify           |
-| ⬜ Future              | 🟩 Promise hell                | 🟦 Dead locks       | 🟩 promisify             |
+| 🟩 Future              | 🟩 Promise hell                | 🟦 Dead locks       | 🟩 promisify             |
 | 🟩 Deferred            |                                | 🟦 Live locks       | ⬜ IPC                   |
 | 🟩 Observer            |                                | ⬜ Actor Model      | ⬜ Channel API           |
 | 🟩 Async Collector     |                                |                     | ⬜ Revealing Constructor |
@@ -85,8 +85,8 @@
 
 | Internals            | Theory                       | Network           | Technique        | Problems             |
 |----------------------|------------------------------|-------------------|------------------|----------------------|
-| 🟩 Nonblocking I/O   | 🟦 I/O bound tasks           | 🟩 HTTP(S)        | 🟩 Logging       | 🟦 Memory leaks      |
-| 🟩 Event Loop        | 🟦 CPU bound tasks           | 🟦 TCP/SSL        | 🟩 Testing       | 🟦 Resource leaks    |
+| 🟩 Nonblocking I/O   | 🟦 I/O bound tasks           | 🟩 HTTP(S)        | 🟩 Logging       | 🟩 Memory leaks      |
+| 🟩 Event Loop        | 🟦 CPU bound tasks           | 🟦 TCP/SSL        | 🟩 Testing       | 🟩 Resource leaks    |
 | 🟩 commonjs          | 🟦 Memory bound tasks        | 🟦 UDP            | ⬜ CI/CD         | 🟩 Blocking code     |
 | 🟩 ECMA modules      | 🟦 Multilayer approach       | 🟦 TLS            | 🟩 Readable      | 🟩 Data race         |
 | 🟦 Network API       | 🟦 Separation of concerns    | 🟦 Websocket      | 🟩 Writable      | 🟦 Graceful Shutdown |
