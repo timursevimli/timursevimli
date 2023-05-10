@@ -78,8 +78,8 @@
 | 🟩 Deferred            |                                | 🟦 Live locks       | ⬜ IPC                   |
 | 🟩 Observer            |                                | 🟩 Actor Model      | ⬜ Channel API           |
 | 🟩 Async Collector     |                                |                     | 🟩 Revealing Constructor |
-| ⬜ Coroutine           |                                |                     |                          |
-| ⬜ Goroutine           |                                |                     |                          |
+| 🟩 Coroutine           |                                |                     |                          |
+| 🟩 Goroutine           |                                |                     |                          |
 
 ## Node.js and backend
 
