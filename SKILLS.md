@@ -96,7 +96,7 @@
 | 🟩 npm               | 🟦 SOLID for JS and Node.js  | 🟦 REST           | 🟦 Console       |                      |
 | 🟩 node_modules      | 🟦 GoF for JS and Node.js    | 🟦 RPC            | 🟦 Inspector     |                      |
 | 🟩 package.json      | ⬜ Distributed systems       | 🟦 Routing        | 🟦 Reliability   |                      |
-| 🟩 vm isolation      | ⬜ Highload applications     | 🟩 IP sticky      | 🟦 Quality       |                      |
+| 🟩 vm isolation      | ⬜ Highload applications     | 🟦 IP sticky      | 🟦 Quality       |                      |
 | 🟩 command line args | 🟦 DDD                       | 🟩 DoS            | 🟦 Availability  |                      |
 | ⬜ Node.js CLI       | 🟦 Clean architecture        | 🟩 DDoS           | 🟦 Flexibility   |                      |
 | 🟩 Streams           | 🟦 Domain in the middle      | 🟦 XSS            |                  |                      |
