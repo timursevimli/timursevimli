@@ -77,7 +77,7 @@
 | 🟩 Future              | 🟩 Promise hell                | 🟦 Dead locks       | 🟩 promisify             |
 | 🟩 Deferred            |                                | 🟦 Live locks       | 🟩 IPC                   |
 | 🟩 Observer            |                                | 🟩 Actor Model      | ⬜ Channel API           |
-| 🟩 Async Collector     |                                |                     | 🟩 Revealing Constructor |
+| 🟩 Async Collector     |                                |                     |                          |
 | 🟩 Coroutine           |                                |                     |                          |
 | 🟩 Goroutine           |                                |                     |                          |
 
