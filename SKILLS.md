@@ -38,8 +38,8 @@
 |--------------------------------|-----------------------|----------------------|--------------------------|
 | 🟩 Procedural programming      | 🟩 constructor        | 🟩 struct, record    | 🟩 Singleton             |
 | 🟩 Imperative programming      | 🟩 new                | 🟩 Mutable state     | 🟩 Revealing Constructor |
-| 🟦 Structured programming      | 🟩 Static method      | 🟩 Immutable state   | 🟩 Observer              |
-| 🟦 Non-structured programming  | 🟩 Method             | 🟩 Enum              |                          |
+| 🟩 Structured programming      | 🟩 Static method      | 🟩 Immutable state   | 🟩 Observer              |
+| 🟩 Non-structured programming  | 🟩 Method             | 🟩 Enum              |                          |
 | 🟩 Functional programming      | 🟩 Async method       | 🟩 Linked list       |                          |
 | 🟩 Prototype-based programming | 🟩 Getters, Setters   | 🟩 Doubly list       |                          |
 | 🟩 Object-oriented programming | 🟩 Public fields      | ⬜ Unrolled list     |                          |
