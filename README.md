@@ -3,4 +3,4 @@
 <code>💡 [Skills](SKILLS.md)</code><br>
 <code>🧑‍💻 Languages: JavaScript, TypeScript</code>
 <code>📦 Tech stack: node.js</code>
-<code>📫 [Email](mailto:svmlitimur@gmail.com)</code><br>
+<code>📫 [Email](mailto:svmlitimur+github@gmail.com)</code><br>
