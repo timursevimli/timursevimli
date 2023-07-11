@@ -100,7 +100,7 @@
 | 🟩 command line args | 🟦 DDD                       | 🟩 DoS            | 🟦 Availability  |                      |
 | ⬜ Node.js CLI       | 🟦 Clean architecture        | 🟩 DDoS           | 🟦 Flexibility   |                      |
 | 🟩 Streams           | 🟦 Domain in the middle      | 🟦 XSS            |                  |                      |
-| 🟩 Clustering        | 🟦 Message Queue             | 🟦 Path traversal |                  |                      |
+| 🟩 Clustering        | 🟦 Message Queue             | 🟩 Path traversal |                  |                      |
 | 🟩 Load balancing    | 🟦 Transport-agnostic server | 🟦 CSRF           |                  |                      |
 | ⬜ Serverless clouds | 🟦 Framework-agnostic app    | 🟦 DNS            |                  |                      |
 | ⬜ FaaS clouds       | ⬜ Interactive applications  | 🟦 Fetch          |                  |                      |
