@@ -85,11 +85,11 @@
 
 | Internals            | Theory                       | Network           | Technique        | Problems             |
 |----------------------|------------------------------|-------------------|------------------|----------------------|
-| 🟩 Nonblocking I/O   | 🟦 I/O bound tasks           | 🟩 HTTP(S)        | 🟩 Logging       | 🟩 Memory leaks      |
-| 🟩 Event Loop        | 🟦 CPU bound tasks           | 🟩 TCP/SSL        | 🟩 Testing       | 🟩 Resource leaks    |
-| 🟩 commonjs          | 🟦 Memory bound tasks        | 🟩 UDP            | 🟩 CI/CD         | 🟩 Blocking code     |
+| 🟩 Nonblocking I/O   | 🟩 I/O bound tasks           | 🟩 HTTP(S)        | 🟩 Logging       | 🟩 Memory leaks      |
+| 🟩 Event Loop        | 🟩 CPU bound tasks           | 🟩 TCP/SSL        | 🟩 Testing       | 🟩 Resource leaks    |
+| 🟩 commonjs          | 🟩 Memory bound tasks        | 🟩 UDP            | 🟩 CI/CD         | 🟩 Blocking code     |
 | 🟩 ECMA modules      | 🟦 Multilayer approach       | 🟦 TLS            | 🟩 Readable      | 🟩 Data race         |
-| 🟦 Network API       | 🟦 Separation of concerns    | 🟩 Websocket      | 🟩 Writable      | 🟩 Graceful Shutdown |
+| 🟩 Network API       | 🟦 Separation of concerns    | 🟩 Websocket      | 🟩 Writable      | 🟩 Graceful Shutdown |
 | ⬜ Addons            | 🟩 Inversion of control      | ⬜ SSE            | 🟩 Transform     | 🟩 Dependencies      |
 | 🟩 N-API             | 🟩 Dependency injection      | ⬜ HTTP/3 (QUIC)  | 🟩 back pressure |                      |
 | 🟩 Webassembly       | 🟩 GRASP for JS and Node.js  | ⬜ Long polling   | 🟩 Buffer        |                      |
@@ -103,9 +103,9 @@
 | 🟩 Clustering        | 🟦 Message Queue             | 🟩 Path traversal |                  |                      |
 | 🟩 Load balancing    | 🟩 Transport-agnostic server | 🟦 CSRF           |                  |                      |
 | ⬜ Serverless clouds | 🟩 Framework-agnostic app    | 🟩 DNS            |                  |                      |
-| ⬜ FaaS clouds       | ⬜ Interactive applications  | 🟦 Fetch          |                  |                      |
-| 🟦 Debugging node.js | ⬜ Real-time applications    | 🟦 zlib           |                  |                      |
+| ⬜ FaaS clouds       | ⬜ Interactive applications  | 🟩 Fetch          |                  |                      |
+| 🟦 Debugging node.js | ⬜ Real-time applications    | 🟩 zlib           |                  |                      |
 | 🟦 crypto            | 🟩 CQS and CQRS              |                   |                  |                      |
-| 🟩 SharedArrayBuffer | 🟦 Event Sourcing            |                   |                  |                      |
+| 🟩 SharedArrayBuffer | 🟩 Event Sourcing            |                   |                  |                      |
 | 🟩 child_process     | 🟩 Shared memory             |                   |                  |                      |
 | 🟩 worker_threads    |                              |                   |                  |                      |
