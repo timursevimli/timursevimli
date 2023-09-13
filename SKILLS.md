@@ -95,12 +95,12 @@
 | 🟩 Webassembly       | 🟩 GRASP for JS and Node.js  | ⬜ Long polling   | 🟩 Buffer        |                      |
 | 🟩 npm               | 🟦 SOLID for JS and Node.js  | 🟩 REST           | 🟦 Console       |                      |
 | 🟩 node_modules      | 🟦 GoF for JS and Node.js    | 🟩 RPC            | 🟦 Inspector     |                      |
-| 🟩 package.json      | ⬜ Distributed systems       | 🟦 Routing        | 🟦 Reliability   |                      |
-| 🟩 vm isolation      | ⬜ Highload applications     | 🟦 IP sticky      | 🟦 Quality       |                      |
+| 🟩 package.json      | ⬜ Distributed systems       | 🟩 Routing        | 🟦 Reliability   |                      |
+| 🟩 vm isolation      | 🟩 Highload applications     | 🟩 IP sticky      | 🟦 Quality       |                      |
 | 🟩 command line args | 🟩 DDD                       | 🟩 DoS            | 🟦 Availability  |                      |
-| ⬜ Node.js CLI       | 🟦 Clean architecture        | 🟩 DDoS           | 🟦 Flexibility   |                      |
+| ⬜ Node.js CLI       | 🟩 Clean architecture        | 🟩 DDoS           | 🟦 Flexibility   |                      |
 | 🟩 Streams           | 🟦 Domain in the middle      | 🟦 XSS            |                  |                      |
-| 🟩 Clustering        | 🟦 Message Queue             | 🟩 Path traversal |                  |                      |
+| 🟩 Clustering        | 🟩 Message Queue             | 🟩 Path traversal |                  |                      |
 | 🟩 Load balancing    | 🟩 Transport-agnostic server | 🟦 CSRF           |                  |                      |
 | ⬜ Serverless clouds | 🟩 Framework-agnostic app    | 🟩 DNS            |                  |                      |
 | ⬜ FaaS clouds       | ⬜ Interactive applications  | 🟩 Fetch          |                  |                      |
