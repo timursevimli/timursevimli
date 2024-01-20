@@ -13,9 +13,9 @@
 | 🟩 scalar            | 🟩 class              | 🟩 argument           | 🟩 hash table       | 🟩 algorithm         |
 | 🟩 literal           | 🟩 while              | 🟩 parameter          | 🟩 linked list      | 🟩 magic numbers     |
 | 🟩 expression        | 🟩 do..while          | 🟩 pure function      | 🟩 queue            | 🟩 hardcode          |
-| 🟩 heap              | 🟩 for                | 🟩 lambda             | 🟩 stack            | 🟦 complexity        |
+| 🟩 heap              | 🟩 for                | 🟩 lambda             | 🟩 stack            | 🟩 complexity        |
 | 🟩 type              | 🟩 for..in            | 🟩 side effects       | 🟩 deque            | 🟩 decomposition     |
-| 🟩 primitive types   | 🟩 for..of            | 🟩 closure            | 🟩 serialization    | ⬜️ spaghetti         |
+| 🟩 primitive types   | 🟩 for..of            | 🟩 closure            | 🟩 serialization    | 🟩 spaghetti         |
 | 🟩 reference         | 🟩 for await          | 🟩 partial            | 🟩 mixin, extend    | 🟩 silver bullet     |
 | 🟩 flag              | 🟩 throw              | 🟩 curry              | 🟩 iterator         | ⬜️ not invented here |
 | 🟩 lexical scope     | 🟩 try..catch         | 🟩 chaining           | 🟩 typed arrays     | 🟩 dead code         |
@@ -104,7 +104,7 @@
 | 🟩 Load balancing    | 🟩 Transport-agnostic server | 🟩 CSRF           |                  |                      |
 | 🟩 Serverless clouds | 🟩 Framework-agnostic app    | 🟩 DNS            |                  |                      |
 | ⬜ FaaS clouds       | ⬜ Interactive applications  | 🟩 Fetch          |                  |                      |
-| 🟩 Debugging node.js | ⬜ Real-time applications    | 🟩 zlib           |                  |                      |
+| 🟩 Debugging node.js | 🟩 Real-time applications    | 🟩 zlib           |                  |                      |
 | 🟩 crypto            | 🟩 CQS and CQRS              |                   |                  |                      |
 | 🟩 SharedArrayBuffer | 🟩 Event Sourcing            |                   |                  |                      |
 | 🟩 child_process     | 🟩 Shared memory             |                   |                  |                      |
