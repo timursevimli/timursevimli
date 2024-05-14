@@ -90,15 +90,15 @@
 | 🟩 commonjs          | 🟩 Memory bound tasks        | 🟩 UDP            | 🟩 CI/CD         | 🟩 Blocking code     |
 | 🟩 ECMA modules      | 🟩 Multilayer approach       | 🟩 TLS            | 🟩 Readable      | 🟩 Data race         |
 | 🟩 Network API       | 🟦 Separation of concerns    | 🟩 Websocket      | 🟩 Writable      | 🟩 Graceful Shutdown |
-| ⬜ Addons            | 🟩 Inversion of control      | ⬜ SSE            | 🟩 Transform     | 🟩 Dependencies      |
+| 🟩 Addons            | 🟩 Inversion of control      | ⬜ SSE            | 🟩 Transform     | 🟩 Dependencies      |
 | 🟩 N-API             | 🟩 Dependency injection      | ⬜ HTTP/3 (QUIC)  | 🟩 back pressure |                      |
-| 🟩 Webassembly       | 🟩 GRASP for JS and Node.js  | ⬜ Long polling   | 🟩 Buffer        |                      |
+| 🟩 Webassembly       | 🟩 GRASP for JS and Node.js  | 🟩 Long polling   | 🟩 Buffer        |                      |
 | 🟩 npm               | 🟩 SOLID for JS and Node.js  | 🟩 REST           | 🟦 Console       |                      |
 | 🟩 node_modules      | 🟩 GoF for JS and Node.js    | 🟩 RPC            | 🟩 Inspector     |                      |
-| 🟩 package.json      | ⬜ Distributed systems       | 🟩 Routing        | 🟦 Reliability   |                      |
-| 🟩 vm isolation      | 🟩 Highload applications     | 🟩 IP sticky      | 🟦 Quality       |                      |
-| 🟩 command line args | 🟩 DDD                       | 🟩 DoS            | 🟦 Availability  |                      |
-| 🟩 Node.js CLI       | 🟩 Clean architecture        | 🟩 DDoS           | 🟦 Flexibility   |                      |
+| 🟩 package.json      | ⬜ Distributed systems       | 🟩 Routing        | 🟩 Reliability   |                      |
+| 🟩 vm isolation      | 🟩 Highload applications     | 🟩 IP sticky      | 🟩 Quality       |                      |
+| 🟩 command line args | 🟩 DDD                       | 🟩 DoS            | 🟩 Availability  |                      |
+| 🟩 Node.js CLI       | 🟩 Clean architecture        | 🟩 DDoS           | 🟩 Flexibility   |                      |
 | 🟩 Streams           | 🟩 Domain in the middle      | 🟩 XSS            |                  |                      |
 | 🟩 Clustering        | 🟩 Message Queue             | 🟩 Path traversal |                  |                      |
 | 🟩 Load balancing    | 🟩 Transport-agnostic server | 🟩 CSRF           |                  |                      |
