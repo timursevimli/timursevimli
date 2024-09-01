@@ -5,4 +5,4 @@
 
 <code>🧑‍💻 Languages: JS, TS, RUST, GO, PYTHON, SQL, BASH, CSS</code>\
 <code>📦 Tech stack: node.js, metarhia, fastify, nest, react</code>\
-<code>🛠️ Tools: docker, k8s, proxmox, aws, git, gitlab, absible, terraform</code>
+<code>🛠️ Tools: docker, k8s, proxmox, aws, git, gitlab, ansible, terraform</code>
