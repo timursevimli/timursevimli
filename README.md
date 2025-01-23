@@ -1,5 +1,5 @@
 <code>⚪ Community: Metarhia</code>
-<code>👷 Speciality: Software Engineer & DevOps</code>
+<code>👷 Speciality: Software Engineer & DevOps enthusiast</code>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>📫 [Email](mailto:svmlitimur+github@gmail.com)</code><br>
 
